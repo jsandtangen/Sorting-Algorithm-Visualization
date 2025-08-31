@@ -43,7 +43,3 @@ python main.py
 
 ## Lisens
 Dette prosjektet er lisensiert under MIT-lisensen. Se [LICENSE](LICENSE) for mer informasjon.
-
---- 
-
-Du kan bruke denne teksten direkte i README-filen din!
