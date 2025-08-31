@@ -24,11 +24,11 @@ Dette prosjektet er en interaktiv visualisering av ulike sorteringsalgoritmer ve
 ## Installasjon
 1. Klon dette repositoriet:
    ```
-   git clone https://github.com/brukernavn/sorting-algorithm-visualization.git
+   git clone https://github.com/jsandtangen/Sorting-Algorithm-Visualization.git
    ```
 2. Naviger til prosjektmappen:
    ```
-   cd sorting-algorithm-visualization
+   cd Sorting-Algorithm-Visualization
    ```
 3. Installer nødvendige biblioteker:
    ```
